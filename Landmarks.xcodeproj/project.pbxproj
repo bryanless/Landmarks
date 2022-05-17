@@ -305,6 +305,7 @@
 		CE7FE5D5280DA9CB0069F92B /* PageView */ = {
 			isa = PBXGroup;
 			children = (
+				CE7FE5D8280DABB20069F92B /* FeatureCard.swift */,
 				CE7FE5D6280DA9E20069F92B /* PageViewController.swift */,
 				CE7FE5DA280DACB90069F92B /* PageView.swift */,
 				CE7FE5DC280DB4A80069F92B /* PageControl.swift */,
@@ -369,7 +370,6 @@
 			isa = PBXGroup;
 			children = (
 				CE2531342808731F007B87F8 /* ContentView.swift */,
-				CE7FE5D8280DABB20069F92B /* FeatureCard.swift */,
 				CEA1DA9C280C9AB600D409D9 /* Landmarks */,
 				CE7FE5BA280D93A20069F92B /* Hikes */,
 				CE7FE5C3280D973E0069F92B /* Categories */,
